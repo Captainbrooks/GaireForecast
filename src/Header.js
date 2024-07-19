@@ -1,7 +1,7 @@
 const Header=()=>{
     return(
     <div className="header">
-        <h1>Welcome to the Weather App</h1>
+        <h1>Welcome to the GaireForecast</h1>
     </div>
     )
 }
